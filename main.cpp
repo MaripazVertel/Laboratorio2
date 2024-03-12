@@ -7,6 +7,8 @@ using namespace std;
 #include "Problema5.h"
 #include "Problema6.h"
 #include "Problema7.h"
+#include "Problema8.h"
+
 
 
 int main()
@@ -17,7 +19,8 @@ int main()
     //Problema4();
     //Problema5();
     //Problema6();
-    Problema7();
+    //Problema7();
+    Problema8();
 
 
 
