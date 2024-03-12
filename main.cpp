@@ -5,6 +5,7 @@ using namespace std;
 #include "Problema3.h"
 #include "Problema4.h"
 #include "Problema5.h"
+#include "Problema6.h"
 
 int main()
 {
@@ -12,7 +13,8 @@ int main()
     //Problema2();
     //Problema3();
     //Problema4();
-    Problema5();
+    //Problema5();
+    Problema6();
 
 
 
