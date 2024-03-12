@@ -4,6 +4,9 @@ using namespace std;
 
 int main()
 {
-    Problema1();
+    //Problema1();
+    //Problema2();
+    Problema3();
+
 
 }

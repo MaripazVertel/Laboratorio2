@@ -3,5 +3,7 @@
 
 #endif // PROBLEMA1_H
 
-int Problema1();
+//int Problema1();
+//int Problema2();
+int Problema3();
 

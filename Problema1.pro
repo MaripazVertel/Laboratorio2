@@ -6,6 +6,7 @@ CONFIG -= qt
 SOURCES += \
         Problema1.cpp \
         Problema2.cpp \
+        Problema3.cpp \
         main.cpp
 
 HEADERS += \
