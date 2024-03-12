@@ -12,6 +12,7 @@ SOURCES += \
         Problema6.cpp \
         Problema7.cpp \
         Problema8.cpp \
+        Problema9.cpp \
         main.cpp
 
 HEADERS += \
@@ -22,4 +23,5 @@ HEADERS += \
     Problema5.h \
     Problema6.h \
     Problema7.h \
-    Problema8.h
+    Problema8.h \
+    Problema9.h
