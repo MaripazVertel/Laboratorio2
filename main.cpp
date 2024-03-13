@@ -13,6 +13,8 @@ using namespace std;
 #include "Problema11.h"
 #include "Problema12.h"
 #include "Problema14.h"
+#include "Problema15.h"
+#include "Problema16.h"
 #include"Problema17.h"
 #include "Problema18.h"
 
@@ -32,11 +34,14 @@ int main()
     //Problema8();
     //Problema9();
     //Problema10();
-    // Problema11();
+    //Problema11();
     //Problema12();
     //Problema14();
+    //Problema15();
+    //Problema16();
     //Problema17();
     //Problema18();
+
 
 
 }
