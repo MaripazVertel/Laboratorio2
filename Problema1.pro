@@ -6,12 +6,10 @@ CONFIG -= qt
 SOURCES += \
         Problema1.cpp \
         Problema10.cpp \
-        Problema11.cpp \
         Problema12.cpp \
         Problema14.cpp \
         Problema15.cpp \
         Problema16.cpp \
-        Problema17.cpp \
         Problema18.cpp \
         Problema2.cpp \
         Problema3.cpp \
@@ -26,12 +24,10 @@ SOURCES += \
 HEADERS += \
     Problema1.h \
     Problema10.h \
-    Problema11.h \
     Problema12.h \
     Problema14.h \
     Problema15.h \
     Problema16.h \
-    Problema17.h \
     Problema18.h \
     Problema2.h \
     Problema3.h \
